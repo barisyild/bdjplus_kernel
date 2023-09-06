@@ -1,0 +1,4 @@
+.idea
+dependencies/bdjstack.jar
+*.iml
+bdjplus_kernel.jar
